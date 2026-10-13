@@ -9,7 +9,4 @@ Tipos de herramientas:
 Lenguajes de programación a utilizar:
 - Python.
 - Rust.
-- Fortran.
 - html/css.
-- VisualBasic (Excel).
-
